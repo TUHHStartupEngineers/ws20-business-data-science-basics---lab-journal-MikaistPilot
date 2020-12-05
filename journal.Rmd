@@ -87,8 +87,7 @@ This is an `.Rmd` file. It is plain text with special features. Any time you wri
     title    = "Income per state",
     subtitle = "Income in descending order",
     x = "", # Override defaults for x and y
-    y = "Income"
-  )
+    y = "Income")
 
 
 

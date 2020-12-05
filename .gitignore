@@ -39,4 +39,5 @@ vignettes/*.pdf
 .Renviron
 00_data/*
 docs/00_data/*
+
 .RDataTmp
